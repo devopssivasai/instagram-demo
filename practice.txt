@@ -1,0 +1,7 @@
+apiversion
+kind:pod
+metadata:
+name : jkl
+labels:
+pod:nginx
+
