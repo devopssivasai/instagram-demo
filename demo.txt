@@ -4,7 +4,4 @@ agent any
 tools{
 maven '3.9.9'
 java 17
-stages{
-stage{
-stage{
- sh'mvn clean packge'
+tag:1.21
