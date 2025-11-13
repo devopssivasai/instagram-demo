@@ -1,0 +1,10 @@
+hellow devops team, good moring
+ pipeline {
+ agent any
+  tools{
+    maven '3.9.9'
+    java 17
+     satages {
+     stage {
+     steps {
+     sh'mvn clean package'
