@@ -8,3 +8,5 @@ hellow devops team, good moring
      stage {
      steps {
      sh'mvn clean package'
+
+     hello devopse
